@@ -1,5 +1,6 @@
  This is sample file
 
- change 2
+ change 1
 
-Change 3
+Change 2
+ Change 3
